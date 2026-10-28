@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Murad
 
-<!--
-**muradssss111/muradssss111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build [VervBot](https://vervstore.net), a Discord bot with a web dashboard and its own store. I work on it with [Al-Talhi](https://vervstore.net/al-talhi), and most of my days go into it.
 
-Here are some ideas to get you started:
+I'm also on the [Vision X](https://discord.gg/vsx) team, where we make FiveM scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What VervBot does**
+
+- Server protection: anti-nuke that reads the audit log, anti-raid, and an image shield
+- Tickets with transcripts, welcome cards, invite tracking and levels
+- A dashboard where owners change all of it without typing a single command
+- Premium +: each server gets its own copy of the bot, under its own name and avatar
+- Around 245 commands, both slash and prefix
+
+**What I use**
+
+Node.js, discord.js, Express and SQLite, node-canvas for the image cards, Lavalink for music, and plain JavaScript on the site
+
+The VervBot code is private, so my repos are quiet for now. The bot itself is live: [vervstore.net](https://vervstore.net) · [Support server](https://discord.gg/vervbot)
