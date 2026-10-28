@@ -1,6 +1,6 @@
 ### Hey, I'm Murad
 
-I build [VervBot](https://vervstore.net), a Discord bot with a web dashboard and its own store. I work on it with [Al-Talhi](https://vervstore.net/al-talhi), and most of my days go into it.
+I build [VervBot](https://vervstore.net), a Discord bot with a web dashboard and its own store, and most of my days go into it.
 
 I'm also on the [Vision X](https://discord.gg/vsx) team, where we make FiveM scripts.
 
